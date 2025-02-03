@@ -1,4 +1,4 @@
-# Music-Store-Analytics
+# Music-Store-Analytics using PostgreSQL
 SQL project to analyze online music store data
 There are 12 table in the dataset and every table is connected with Primary key and Foreign Key. 
 The project was made to examine the dataset with the help of SQL and to help store understand its buisness growth.
